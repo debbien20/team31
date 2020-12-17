@@ -1,0 +1,269 @@
+Activity Code,NTEE Code,Description
+1,X,"Religion-Related, Spiritual Development"
+2,X,"Religion-Related, Spiritual Development"
+3,X,"Religion-Related, Spiritual Development"
+4,X,"Religion-Related, Spiritual Development"
+5,X,"Religion-Related, Spiritual Development"
+6,X,"Religion-Related, Spiritual Development"
+7,X,"Religion-Related, Spiritual Development"
+8,X,"Religion-Related, Spiritual Development"
+29,X,"Religion-Related, Spiritual Development"
+30,B,Educational Institutions and Related Activities
+31,B,Educational Institutions and Related Activities
+32,B,Educational Institutions and Related Activities
+33,B,Educational Institutions and Related Activities
+34,B,Educational Institutions and Related Activities
+35,B,Educational Institutions and Related Activities
+36,B,Educational Institutions and Related Activities
+37,B,Educational Institutions and Related Activities
+38,B,Educational Institutions and Related Activities
+39,B,Educational Institutions and Related Activities
+40,B,Educational Institutions and Related Activities
+41,B,Educational Institutions and Related Activities
+42,B,Educational Institutions and Related Activities
+43,B,Educational Institutions and Related Activities
+44,B,Educational Institutions and Related Activities
+45,B,Educational Institutions and Related Activities
+46,B,Educational Institutions and Related Activities
+59,B,Educational Institutions and Related Activities
+60,A,"Arts, Culture and Humanities"
+61,A,"Arts, Culture and Humanities"
+62,A,"Arts, Culture and Humanities"
+63,A,"Arts, Culture and Humanities"
+64,A,"Arts, Culture and Humanities"
+65,A,"Arts, Culture and Humanities"
+88,A,"Arts, Culture and Humanities"
+89,A,"Arts, Culture and Humanities"
+90,A,"Arts, Culture and Humanities"
+91,A,"Arts, Culture and Humanities"
+92,A,"Arts, Culture and Humanities"
+93,A,"Arts, Culture and Humanities"
+94,A,"Arts, Culture and Humanities"
+119,A,"Arts, Culture and Humanities"
+120,N,"Recreation, Sports, Leisure, Athletics"
+121,N,"Recreation, Sports, Leisure, Athletics"
+122,N,"Recreation, Sports, Leisure, Athletics"
+123,N,"Recreation, Sports, Leisure, Athletics"
+124,N,"Recreation, Sports, Leisure, Athletics"
+125,N,"Recreation, Sports, Leisure, Athletics"
+126,N,"Recreation, Sports, Leisure, Athletics"
+149,N,"Recreation, Sports, Leisure, Athletics"
+150,E,Health - General and Rehabilitative
+151,E,Health - General and Rehabilitative
+152,E,Health - General and Rehabilitative
+153,E,Health - General and Rehabilitative
+154,E,Health - General and Rehabilitative
+155,E,Health - General and Rehabilitative
+156,E,Health - General and Rehabilitative
+157,E,Health - General and Rehabilitative
+158,E,Health - General and Rehabilitative
+159,E,Health - General and Rehabilitative
+160,E,Health - General and Rehabilitative
+161,G,"Diseases, Disorders, Medical Disciplines"
+162,H,Medical Research
+163,E,Health - General and Rehabilitative
+164,E,Health - General and Rehabilitative
+165,E,Health - General and Rehabilitative
+166,E,Health - General and Rehabilitative
+167,E,Health - General and Rehabilitative
+168,E,Health - General and Rehabilitative
+169,E,Health - General and Rehabilitative
+179,E,Health - General and Rehabilitative
+180,U,"Science and Technology Research Institutes, Services"
+181,U,"Science and Technology Research Institutes, Services"
+199,U,"Science and Technology Research Institutes, Services"
+200,J,"Employment, Job-Related"
+201,J,"Employment, Job-Related"
+202,J,"Employment, Job-Related"
+203,J,"Employment, Job-Related"
+204,J,"Employment, Job-Related"
+205,J,"Employment, Job-Related"
+206,J,"Employment, Job-Related"
+207,J,"Employment, Job-Related"
+208,J,"Employment, Job-Related"
+209,J,"Employment, Job-Related"
+210,J,"Employment, Job-Related"
+211,J,"Employment, Job-Related"
+212,J,"Employment, Job-Related"
+213,J,"Employment, Job-Related"
+229,J,"Employment, Job-Related"
+230,K,"Food, Agriculture and Nutrition"
+231,K,"Food, Agriculture and Nutrition"
+232,K,"Food, Agriculture and Nutrition"
+233,K,"Food, Agriculture and Nutrition"
+234,K,"Food, Agriculture and Nutrition"
+235,K,"Food, Agriculture and Nutrition"
+236,K,"Food, Agriculture and Nutrition"
+237,K,"Food, Agriculture and Nutrition"
+249,K,"Food, Agriculture and Nutrition"
+250,Y,"Mutual/Membership Benefit Organizations, Other"
+251,Y,"Mutual/Membership Benefit Organizations, Other"
+252,Y,"Mutual/Membership Benefit Organizations, Other"
+253,Y,"Mutual/Membership Benefit Organizations, Other"
+254,Y,"Mutual/Membership Benefit Organizations, Other"
+259,Y,"Mutual/Membership Benefit Organizations, Other"
+260,Y,"Mutual/Membership Benefit Organizations, Other"
+261,Y,"Mutual/Membership Benefit Organizations, Other"
+262,Y,"Mutual/Membership Benefit Organizations, Other"
+263,Y,"Mutual/Membership Benefit Organizations, Other"
+264,Y,"Mutual/Membership Benefit Organizations, Other"
+265,Y,"Mutual/Membership Benefit Organizations, Other"
+266,Y,"Mutual/Membership Benefit Organizations, Other"
+267,Y,"Mutual/Membership Benefit Organizations, Other"
+268,Y,"Mutual/Membership Benefit Organizations, Other"
+269,Y,"Mutual/Membership Benefit Organizations, Other"
+279,Y,"Mutual/Membership Benefit Organizations, Other"
+280,N,"Recreation, Sports, Leisure, Athletics"
+281,N,"Recreation, Sports, Leisure, Athletics"
+282,N,"Recreation, Sports, Leisure, Athletics"
+283,N,"Recreation, Sports, Leisure, Athletics"
+284,N,"Recreation, Sports, Leisure, Athletics"
+285,N,"Recreation, Sports, Leisure, Athletics"
+286,N,"Recreation, Sports, Leisure, Athletics"
+287,N,"Recreation, Sports, Leisure, Athletics"
+288,N,"Recreation, Sports, Leisure, Athletics"
+296,N,"Recreation, Sports, Leisure, Athletics"
+297,N,"Recreation, Sports, Leisure, Athletics"
+298,N,"Recreation, Sports, Leisure, Athletics"
+299,N,"Recreation, Sports, Leisure, Athletics"
+300,N,"Recreation, Sports, Leisure, Athletics"
+301,N,"Recreation, Sports, Leisure, Athletics"
+317,N,"Recreation, Sports, Leisure, Athletics"
+318,N,"Recreation, Sports, Leisure, Athletics"
+319,N,"Recreation, Sports, Leisure, Athletics"
+320,O,Youth Development
+321,O,Youth Development
+322,O,Youth Development
+323,O,Youth Development
+324,O,Youth Development
+325,O,Youth Development
+326,O,Youth Development
+327,O,Youth Development
+328,O,Youth Development
+349,O,Youth Development
+350,C,"Environmental Quality, Protection and Beautification"
+351,C,"Environmental Quality, Protection and Beautification"
+352,C,"Environmental Quality, Protection and Beautification"
+353,C,"Environmental Quality, Protection and Beautification"
+354,C,"Environmental Quality, Protection and Beautification"
+355,C,"Environmental Quality, Protection and Beautification"
+356,C,"Environmental Quality, Protection and Beautification"
+379,C,"Environmental Quality, Protection and Beautification"
+380,L,"Housing, Shelter"
+381,L,"Housing, Shelter"
+382,L,"Housing, Shelter"
+398,L,"Housing, Shelter"
+399,L,"Housing, Shelter"
+400,S,"Community Improvement, Capacity Building"
+401,S,"Community Improvement, Capacity Building"
+402,S,"Community Improvement, Capacity Building"
+403,S,"Community Improvement, Capacity Building"
+404,S,"Community Improvement, Capacity Building"
+405,S,"Community Improvement, Capacity Building"
+406,S,"Community Improvement, Capacity Building"
+407,S,"Community Improvement, Capacity Building"
+408,S,"Community Improvement, Capacity Building"
+429,S,"Community Improvement, Capacity Building"
+430,R,"Civil Rights, Social Action, Advocacy"
+431,R,"Civil Rights, Social Action, Advocacy"
+432,R,"Civil Rights, Social Action, Advocacy"
+449,R,"Civil Rights, Social Action, Advocacy"
+460,I,"Crime, Legal-Related"
+461,I,"Crime, Legal-Related"
+462,I,"Crime, Legal-Related"
+463,I,"Crime, Legal-Related"
+465,I,"Crime, Legal-Related"
+480,I,"Crime, Legal-Related"
+481,I,"Crime, Legal-Related"
+482,I,"Crime, Legal-Related"
+483,I,"Crime, Legal-Related"
+484,I,"Crime, Legal-Related"
+509,I,"Crime, Legal-Related"
+510,R,"Civil Rights, Social Action, Advocacy"
+511,R,"Civil Rights, Social Action, Advocacy"
+512,R,"Civil Rights, Social Action, Advocacy"
+513,R,"Civil Rights, Social Action, Advocacy"
+514,R,"Civil Rights, Social Action, Advocacy"
+515,R,"Civil Rights, Social Action, Advocacy"
+516,R,"Civil Rights, Social Action, Advocacy"
+517,R,"Civil Rights, Social Action, Advocacy"
+518,R,"Civil Rights, Social Action, Advocacy"
+519,R,"Civil Rights, Social Action, Advocacy"
+520,R,"Civil Rights, Social Action, Advocacy"
+521,R,"Civil Rights, Social Action, Advocacy"
+522,R,"Civil Rights, Social Action, Advocacy"
+523,R,"Civil Rights, Social Action, Advocacy"
+524,R,"Civil Rights, Social Action, Advocacy"
+525,R,"Civil Rights, Social Action, Advocacy"
+526,R,"Civil Rights, Social Action, Advocacy"
+527,R,"Civil Rights, Social Action, Advocacy"
+528,R,"Civil Rights, Social Action, Advocacy"
+529,R,"Civil Rights, Social Action, Advocacy"
+530,R,"Civil Rights, Social Action, Advocacy"
+531,R,"Civil Rights, Social Action, Advocacy"
+532,R,"Civil Rights, Social Action, Advocacy"
+533,R,"Civil Rights, Social Action, Advocacy"
+534,R,"Civil Rights, Social Action, Advocacy"
+535,R,"Civil Rights, Social Action, Advocacy"
+536,R,"Civil Rights, Social Action, Advocacy"
+537,R,"Civil Rights, Social Action, Advocacy"
+538,R,"Civil Rights, Social Action, Advocacy"
+539,R,"Civil Rights, Social Action, Advocacy"
+540,R,"Civil Rights, Social Action, Advocacy"
+541,R,"Civil Rights, Social Action, Advocacy"
+542,R,"Civil Rights, Social Action, Advocacy"
+543,R,"Civil Rights, Social Action, Advocacy"
+559,R,"Civil Rights, Social Action, Advocacy"
+560,T,"Philanthropy, Voluntarism and Grantmaking Foundations"
+561,T,"Philanthropy, Voluntarism and Grantmaking Foundations"
+562,T,"Philanthropy, Voluntarism and Grantmaking Foundations"
+563,P,Human Services – Multipurpose and Other
+564,P,Human Services – Multipurpose and Other
+565,P,Human Services – Multipurpose and Other
+566,P,Human Services – Multipurpose and Other
+567,P,Human Services – Multipurpose and Other
+568,P,Human Services – Multipurpose and Other
+569,P,Human Services – Multipurpose and Other
+572,P,Human Services – Multipurpose and Other
+573,P,Human Services – Multipurpose and Other
+574,P,Human Services – Multipurpose and Other
+575,P,Human Services – Multipurpose and Other
+600,Y,"Mutual/Membership Benefit Organizations, Other"
+601,Y,"Mutual/Membership Benefit Organizations, Other"
+602,Y,"Mutual/Membership Benefit Organizations, Other"
+603,Y,"Mutual/Membership Benefit Organizations, Other"
+900,Y,"Mutual/Membership Benefit Organizations, Other"
+901,Y,"Mutual/Membership Benefit Organizations, Other"
+902,M,"Public Safety, Disaster Preparedness and Relief"
+903,W,"Public, Society Benefit – Multipurpose and Other"
+904,W,"Public, Society Benefit – Multipurpose and Other"
+905,W,"Public, Society Benefit – Multipurpose and Other"
+906,W,"Public, Society Benefit – Multipurpose and Other"
+907,W,"Public, Society Benefit – Multipurpose and Other"
+908,W,"Public, Society Benefit – Multipurpose and Other"
+909,W,"Public, Society Benefit – Multipurpose and Other"
+910,Q,"International, Foreign Affairs and National Security"
+911,Q,"International, Foreign Affairs and National Security"
+912,Z,Unknown
+913,D,Animal-Related
+914,T,"Philanthropy, Voluntarism and Grantmaking Foundations"
+915,W,"Public, Society Benefit – Multipurpose and Other"
+916,K,"Food, Agriculture and Nutrition"
+917,N,"Recreation, Sports, Leisure, Athletics"
+918,N,"Recreation, Sports, Leisure, Athletics"
+919,J,"Employment, Job-Related"
+920,J,"Employment, Job-Related"
+921,J,"Employment, Job-Related"
+922,J,"Employment, Job-Related"
+923,A,"Arts, Culture and Humanities"
+924,Z,Unknown
+925,Z,Unknown
+926,Z,Unknown
+927,Z,Unknown
+928,Z,Unknown
+930,Z,Unknown
+931,Z,Unknown
+990,Z,Unknown
+994,Z,Unknown
+995,Z,Unknown
+998,Z,Unknown
